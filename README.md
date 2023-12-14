@@ -1,6 +1,6 @@
 ### Olá! Sou o João Paulo Cardoso!
 <div>
-<img height="180em" margin-right="1px> src="https://github-readme-stats.vercel.app/api?username=JoPCardoso2203&show_icons=true&theme=transparent"/>
+<img height="180em" margin-right="1px" src="https://github-readme-stats.vercel.app/api?username=JoPCardoso2203&show_icons=true&theme=transparent"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoPCardoso2203&layout=compact&theme=transparent"/>
 </div>
   <!--
