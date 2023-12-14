@@ -3,7 +3,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoPCardoso2203&show_icons=true&theme=transparent"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoPCardoso2203&layout=compact&theme=transparent"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
