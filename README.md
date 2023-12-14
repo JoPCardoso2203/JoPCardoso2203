@@ -1,6 +1,6 @@
 ### Olá! Sou o João Paulo Cardoso!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoPCardoso2203&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoPCardoso2203&size_weight=0.5&count_weight=0.5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoPCardoso2203&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoPCardoso2203&layout=compact)
 <!--
 **JoPCardoso2203/JoPCardoso2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
